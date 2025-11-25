@@ -36,4 +36,3 @@ A passionate Informatics & Computer Science student exploring software developme
 
 ---
 
-✨ *“Build with purpose. Learn with passion. Grow with consistency.”* ✨
